@@ -11,12 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 <!-- WEATHER START -->
 ## ☁️ Weather Update ☁️
-# Updated at 12 for this date 12/5/2025
+> **Collected by Lumen 🌗:** February 25, 2025 at 12:40 PM
+
 🌍 **Location:** Cape Town, ZA
 
 | ☁️ Temperature | Feels Like | ☁️ Condition | 💨 Wind Speed | 💧 Humidity | 🌅 Sunrise | 🌇 Sunset |
 |--------------|------------|------------|--------------|-----------|------------|------------|
-| 23°C | 23°C | Clouds | 11.83 m/s | 60% | 06:30 | 19:28 |
+| 24°C | 25°C | Clouds | 12.86 m/s | 59% | 06:30 | 19:28 |
 
 > **Few clouds**
 
